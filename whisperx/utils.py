@@ -105,6 +105,8 @@ LANGUAGES = {
     "ba": "bashkir",
     "jw": "javanese",
     "su": "sundanese",
+    "base": "facebook",
+    "multi": "multilingual"
 }
 
 # language code lookup by name, with a few language aliases
